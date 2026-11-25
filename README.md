@@ -1,4 +1,4 @@
--# disclaimer! this has only been tested on ubuntu linux with a huawei mateBook d15.
+> disclaimer! this has only been tested on ubuntu linux with a huawei mateBook d15.
 
 # Linux Audio Software Fix
 
